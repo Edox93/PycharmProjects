@@ -72,3 +72,44 @@ weight = 58
 result = (weight == 58) and not age > 21  # False
 print(result) #True     #AND    #Flase
 
+#!Strings
+
+name = "Tom"
+surname = 'Smith'
+print(name, surname)  # Tom Smith
+
+#merg streing in one
+name = "Tom"
+surname = 'Smith'
+fullname = name + " " + surname
+print(fullname)  # Tom Smith
+
+#str(): converting int to string
+name = "Tom"
+age = 33
+info = "Name: " + name + " Age: " + str(age)
+print(info)  # Name: Tom Age: 33
+
+
+# \n \t
+print("Кафе \n Central Perk")
+#   Кафе
+#    Central Perk
+
+print("Кафе \"Central Perk\"")   #Кафе "Central Perk"
+
+#compairing strings
+str1 = '1a' #priority1 digit
+str2 = 'aa' #priority2 under register
+str3 = 'Aa' #Priority3
+
+str5 = 'aa' #priority1 first register
+str6 = 'ba' #Priority2 second
+
+#lower() приводит строку к нижнему регистру,
+#upper() - к верхнему.
+str1 = "Tom"
+str2 = "tom"
+print(str1 == str2)  # False - строки не равны
+print(str1.lower() == str2)  # True
+print(str2.upper() == str1.upper())  # True
