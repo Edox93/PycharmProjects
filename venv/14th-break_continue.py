@@ -12,7 +12,7 @@ while True:
 #    if money < 0:
 #        print("Сумма должна быть положительной!")
 #        continue
-    cache = round(money / 485, 2)
+    cache = round(money / 485, 3)
     print("К выдаче", cache, "долларов")
 
 print('Работа обменного пункта завершена')
