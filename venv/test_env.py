@@ -1,7 +1,9 @@
-rate = 2
-money = 10
-month = 3
-for i in range(1, month + 1):
-    money = round(money + money * rate / 100 / 12, 2)
+def centuryFromYear(year):
+    year = (year - 1) / 100 + 1
+    print(int(year))
 
-print( round(money, 2))
+
+year = 45
+centuryFromYear(year)
+year = 1700
+centuryFromYear(year)
