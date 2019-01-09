@@ -1,9 +1,10 @@
-def centuryFromYear(year):
-    year = (year - 1) / 100 + 1
-    print(int(year))
+s = input()
 
+l = len(s)
 
-year = 45
-centuryFromYear(year)
-year = 1700
-centuryFromYear(year)
+for i in range(l//2):
+    if s[i] != s[-1-i]:
+        print("It's not palindrome")
+        quit()
+
+print("It's palindrome")

@@ -13,3 +13,26 @@ if year > 0:
 else:
     print('Wrong value')
 
+'''def centuryFromYear(year):
+    year = year/100
+    if year < 100:
+       year = (year / 100 + 1)
+       print(int(year))
+    else:
+        if year % int(year) == 0:
+            print(int(year))
+        else:
+            print(int(year + 1))
+
+year = 1500
+centuryFromYear(year)'''
+
+#----------------------------------
+'''def centuryFromYear(year):
+    if year % 100 == 0:
+        return int(year / 100)
+    else:
+        return int(year / 100 + 1)
+
+while 1 > 0:
+    print(centuryFromYear(int(input())))'''
