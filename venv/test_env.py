@@ -1,10 +1,5 @@
-s = input()
-
-l = len(s)
-
-for i in range(l//2):
-    if s[i] != s[-1-i]:
-        print("It's not palindrome")
-        quit()
-
-print("It's palindrome")
+edox = 'alabalz'
+rev_edox = edox[-1] + edox[-2] + edox[-3] + edox[-4] + edox[-5] + edox[-6] + edox[-7]
+print(rev_edox)
+for i in edox[3: -1]:
+    print(edox)
