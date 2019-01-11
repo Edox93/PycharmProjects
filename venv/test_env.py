@@ -1,5 +1,7 @@
-edox = 'alabalz'
-rev_edox = edox[-1] + edox[-2] + edox[-3] + edox[-4] + edox[-5] + edox[-6] + edox[-7]
-print(rev_edox)
-for i in edox[3: -1]:
-    print(edox)
+word = 'vahe'
+word_len = len(word) - 1
+reverse_word = []
+while word_len != 0:
+    reverse_word = reverse_word + word[3]
+    word_len  - 1
+    print(r_word)
