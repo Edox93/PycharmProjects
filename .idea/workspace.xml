@@ -4,8 +4,21 @@
     <bookmark url="file://$PROJECT_DIR$/venv/22th-strings_type3.py" line="9" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="203fc69b-f450-43cb-a3b8-64b5fad63c47" name="Default Changelist" comment="">
+=======
+    <list default="true" id="203fc69b-f450-43cb-a3b8-64b5fad63c47" name="Default Changelist" comment="starting loops">
+      <change afterPath="$PROJECT_DIR$/venv/15th-functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/16th-functions_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/17th-function_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/18th-function_main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/19th-functions_scope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/20th-functions_scope2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/helloApp/account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/helloApp/hello.py" afterDir="false" />
+>>>>>>> parent of 55ac070... Module and cicle
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/14th-break_continue.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/14th-break_continue.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/test_env.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/test_env.py" afterDir="false" />
     </list>
     <manually-removed-from-ignored>
@@ -20,15 +33,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/venv/Homeworks/t4_palindrome.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
               <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+=======
+        <entry file="file://$PROJECT_DIR$/venv/helloApp/hello.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+>>>>>>> parent of 55ac070... Module and cicle
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/venv/Homeworks/t4_palindrome_2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
@@ -42,6 +63,12 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
               <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+=======
+        <entry file="file://$PROJECT_DIR$/venv/helloApp/account.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+>>>>>>> parent of 55ac070... Module and cicle
             </state>
           </provider>
         </entry>
@@ -76,9 +103,11 @@
         <option value="$PROJECT_DIR$/venv/17th-function_main.py" />
         <option value="$PROJECT_DIR$/venv/18th-function_main2.py" />
         <option value="$PROJECT_DIR$/venv/19th-functions_scope.py" />
+        <option value="$PROJECT_DIR$/venv/test_env.py" />
         <option value="$PROJECT_DIR$/venv/20th-functions_scope2.py" />
         <option value="$PROJECT_DIR$/venv/helloApp/account.py" />
         <option value="$PROJECT_DIR$/venv/helloApp/hello.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/venv/tasks.txt" />
         <option value="$PROJECT_DIR$/venv/t3_cakes.py" />
         <option value="$PROJECT_DIR$/venv/t3_cake.py" />
@@ -91,12 +120,14 @@
         <option value="$PROJECT_DIR$/venv/22th-strings_type4.py" />
         <option value="$PROJECT_DIR$/venv/Homeworks/t4_palindrome.py" />
         <option value="$PROJECT_DIR$/venv/test_env.py" />
+=======
+>>>>>>> parent of 55ac070... Module and cicle
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="28" />
-    <option name="y" value="96" />
+    <option name="x" value="10" />
+    <option name="y" value="20" />
     <option name="width" value="1346" />
     <option name="height" value="700" />
   </component>
@@ -108,7 +139,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,10 +166,18 @@
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="&lt; Python 3.7 (PycharmProjects) &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (PycharmProjects) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="helloApp" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -164,8 +202,13 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.t4_palindrome_2">
     <configuration name="22th-strings_type3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+  <component name="RunManager" selected="Python.hello">
+    <configuration name="17th-function_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> parent of 55ac070... Module and cicle
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -177,7 +220,11 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/22th-strings_type3.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/17th-function_main.py" />
+>>>>>>> parent of 55ac070... Module and cicle
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,28 +233,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9th-mycalc" type="PythonConfigurationType" factoryName="Python">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Edgar\PycharmProjects\PycharmProjects\venv\9th-my_curr_calc.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="t3_cake" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="18th-function_main2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,7 +245,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Edgar\PycharmProjects\PycharmProjects\venv\Homeworks\t3_cake.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/18th-function_main2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,7 +254,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="t4_palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
+<<<<<<< HEAD
+    <configuration name="t3_cake" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="19th-functions_scope" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> parent of 55ac070... Module and cicle
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -236,11 +266,48 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="C:\Users\Edgar\PycharmProjects\PycharmProjects\venv\Homeworks\t3_cake.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/19th-functions_scope.py" />
+>>>>>>> parent of 55ac070... Module and cicle
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="t4_palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="9th-mycalc" type="PythonConfigurationType" factoryName="Python">
+>>>>>>> parent of 55ac070... Module and cicle
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Homeworks" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Homeworks/t4_palindrome.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Edgar\PycharmProjects\PycharmProjects\venv\9th-my_curr_calc.py" />
+>>>>>>> parent of 55ac070... Module and cicle
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -293,11 +360,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python.t4_palindrome_2" />
         <item itemvalue="Python.test_env" />
         <item itemvalue="Python.22th-strings_type3" />
         <item itemvalue="Python.t4_palindrome" />
         <item itemvalue="Python.t3_cake" />
+=======
+        <item itemvalue="Python.hello" />
+        <item itemvalue="Python.test_env" />
+        <item itemvalue="Python.19th-functions_scope" />
+        <item itemvalue="Python.18th-function_main2" />
+        <item itemvalue="Python.17th-function_main" />
+>>>>>>> parent of 55ac070... Module and cicle
       </list>
     </recent_temporary>
   </component>
@@ -347,6 +422,7 @@
       <option name="project" value="LOCAL" />
       <updated>1544996387650</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00006" summary="Functions, global/local variables (scope), and starting modules HelloApp">
       <created>1545835826408</created>
       <option name="number" value="00006" />
@@ -397,6 +473,9 @@
       <updated>1547332185871</updated>
     </task>
     <option name="localTasksCounter" value="13" />
+=======
+    <option name="localTasksCounter" value="6" />
+>>>>>>> parent of 55ac070... Module and cicle
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -404,7 +483,11 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.22230484" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24981412" />
+>>>>>>> parent of 55ac070... Module and cicle
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49888477" weight="0.31428573" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.30769232" />
@@ -412,7 +495,11 @@
       <window_info anchor="bottom" id="Python Console" order="3" sideWeight="0.49962825" weight="0.32569557" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="6" sideWeight="0.50111526" visible="true" weight="0.35873017" />
+=======
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.50111526" weight="0.4079365" />
+>>>>>>> parent of 55ac070... Module and cicle
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -424,15 +511,23 @@
     </layout>
     <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.22230484" />
+=======
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24981412" />
+>>>>>>> parent of 55ac070... Module and cicle
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49888477" weight="0.31428573" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.30769232" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.49888477" side_tool="true" weight="0.4079365" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.49888477" side_tool="true" visible="true" weight="0.4079365" />
       <window_info anchor="bottom" id="Python Console" order="3" sideWeight="0.49962825" weight="0.32569557" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="6" sideWeight="0.50111526" visible="true" weight="0.35873017" />
+=======
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.50111526" visible="true" weight="0.4079365" />
+>>>>>>> parent of 55ac070... Module and cicle
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -487,6 +582,7 @@
     <MESSAGE value="fix int int 7th.py" />
     <MESSAGE value="added new files 8th and 9th-my_curr_calc" />
     <MESSAGE value="starting loops" />
+<<<<<<< HEAD
     <MESSAGE value="Functions, global/local variables (scope), and starting modules HelloApp" />
     <MESSAGE value="Module and cicle" />
     <MESSAGE value="century task" />
@@ -495,6 +591,9 @@
     <MESSAGE value="rebased commit" />
     <MESSAGE value="starting second page of strings" />
     <option name="LAST_COMMIT_MESSAGE" value="starting second page of strings" />
+=======
+    <option name="LAST_COMMIT_MESSAGE" value="starting loops" />
+>>>>>>> parent of 55ac070... Module and cicle
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/venv/6th.py">
@@ -583,6 +682,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/venv/helloApp/hello.py" />
     <entry file="file://$PROJECT_DIR$/venv/helloApp/account.py" />
     <entry file="file://$PROJECT_DIR$/venv/hello.py">
@@ -631,6 +731,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/pip-selfcheck.json" />
+=======
+    <entry file="file://$PROJECT_DIR$/venv/test_env.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+>>>>>>> parent of 55ac070... Module and cicle
     <entry file="file://$PROJECT_DIR$/venv/19th-functions_scope.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -645,6 +750,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/venv/Homeworks/t1__even_numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -705,6 +811,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+=======
+    <entry file="file://$PROJECT_DIR$/venv/helloApp/account.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/helloApp/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+>>>>>>> parent of 55ac070... Module and cicle
         </state>
       </provider>
     </entry>

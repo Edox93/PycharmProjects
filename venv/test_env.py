@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 word_a = 'Aloslosha'
 word_b = 'lo'
 while  len(word_a) !=0:
@@ -12,3 +13,5 @@ print(word_b)
 #index2 = word_a.find(word_b,index)
 
 
+=======
+>>>>>>> parent of 55ac070... Module and cicle
